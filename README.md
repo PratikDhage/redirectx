@@ -201,20 +201,6 @@ https://github.com
 
 ---
 
-### Input
-
-```text
-https://www.facebook.com/l.php?u=https%3A%2F%2Fopenai.com
-```
-
-### RedirectX automatically opens
-
-```text
-https://openai.com
-```
-
----
-
 ## Why RedirectX?
 
 * Zero backend dependencies
